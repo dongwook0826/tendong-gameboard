@@ -1,1 +1,1 @@
-# tendong-glinski-chess
+# tendong-gameboard
